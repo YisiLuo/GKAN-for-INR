@@ -7,7 +7,7 @@ Results on image fitting:
 
 <img src="figs/fig1.png" width="800">
 
-Results on NeRF:
+Results on NeRF (Blender dataset):
 
 <img src="figs/fig2.png" width="800">
 
